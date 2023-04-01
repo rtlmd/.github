@@ -2,7 +2,8 @@ RTLMD is a simple yet powerful Right to Left Markdown editor designed for users 
 
 With RTLMD, users can create and edit Markdown files, format text using Markdown syntax, and preview the formatted output in real time. The editor also supports syntax highlighting for popular programming languages, making it a great tool for developers who write code in right-to-left languages.
 
-We are constantly working to improve RTLMD and make it the best Markdown editor for right-to-left languages. If you have any feature requests or bug reports, we would love to hear from you! Please send your feedback to us, and we will do our best to address your concerns and make RTLMD even better.
+We are constantly working to improve RTLMD and make it the best Markdown editor for right-to-left languages. If you have any feature requests or bug reports, we would love to hear from you! Please send your feedback to us through [discussions](https://github.com/rtlmd/.github/discussions), and we will do our best to address your concerns and make RTLMD even better.
+
 <!--
 
 **Here are some ideas to get you started:**
